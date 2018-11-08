@@ -1,7 +1,7 @@
 ## Workshop-on-Machine-Learning-2018
    This repo contents all the informations regarding workshop on Machine Learning by NSU ACM SC. 
 
-                                           The instructor for this workshop are - 
+                                           The instructors for this workshop are 
 
 ```
                                                      Asif Ahmed Neloy 
