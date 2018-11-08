@@ -1,5 +1,5 @@
 ## Workshop-on-Machine-Learning-2018
-   This repo contents all the information regarding workshop on Machine Learning held by NSU ACM SC. 
+   This repo contents all the informations regarding workshop on Machine Learning by NSU ACM SC. 
 
                                            The instructor for this workshop are - 
 
