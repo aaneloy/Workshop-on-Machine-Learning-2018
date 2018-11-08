@@ -13,7 +13,7 @@ The instructor for this workshop are -
 ```
 ![Mostafa Didar](Images/28234796_10213887325570230_8277411262478695512_o.jpg)
 
-# Beginner Machine Learning Resources (Copied From - https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
+## Beginner Machine Learning Resources (Copied From - https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
 
 ### Key things to focus on first
 
