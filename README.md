@@ -3,8 +3,8 @@
    
    ## What we are going to learn from this Workshop
    - **Introduction to Machine Learning**
-	- **Intuition of the most common ML Algorithms**
-   - **Application of ML**
+   - **Intuition of the most common ML Algorithms**
+   - **Applications of ML**
    - **Pre-processing Data for ML models**
    - **Use of different ML Algorithms**
    - **Implementation of Algorithms**
