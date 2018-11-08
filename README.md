@@ -6,7 +6,7 @@ Asif Ahmed Neloy
 Mostafa Didar
 
 ```
-❮img src="![Asif Ahmed Neloy](Images/12507265_1651272625133624_6327118509352301225_n.jpg)" width="100" ❯
+❮img src= "Images/12507265_1651272625133624_6327118509352301225_n.jpg" width="100" ❯
 
 
 
