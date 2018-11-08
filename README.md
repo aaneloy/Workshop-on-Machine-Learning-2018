@@ -9,7 +9,7 @@ The instructor for this workshop are -
 
 ![Asif Ahmed Neloy](Images/12507265_1651272625133624_6327118509352301225_n.jpg)
 ```
-                                                     Mostofa Didar
+                                                     Mostafa Didar
 ```
 ![Mostafa Didar](Images/28234796_10213887325570230_8277411262478695512_o.jpg)
 
@@ -124,18 +124,6 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 #### Other Things to follow
 - Get active on Quora. Ask questions, search and try to answer.
 - [Medium Towards Data Science](https://towardsdatascience.com)
-
-The instructor for this workshop - 
-
-```
-                                                     Asif Ahmed Neloy 
-```
-
-![Asif Ahmed Neloy](Images/12507265_1651272625133624_6327118509352301225_n.jpg)
-```
-                                                     Mostofa Didar
-```
-![Mostafa Didar](Images/28234796_10213887325570230_8277411262478695512_o.jpg)
 
 
 
