@@ -232,7 +232,11 @@ Some examples are :
 </p>
 
 
+The training data does not include Targets here so we don’t tell the system where to go , the system has to understand itself from the data we give. Here training data is not structured (contains noisy data,unknown data and etc..)
+ ```
+ ex: A random articles from different pages
 
+```
 
 
 ## Other examples are :
