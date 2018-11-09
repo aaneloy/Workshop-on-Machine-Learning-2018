@@ -28,7 +28,7 @@
 </p>
 
 
-## Beginner Machine Learning Resources (Copied From - https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
+## Beginner Machine Learning Resources (Forked From - https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
 
 ### Key things to focus on first
 
