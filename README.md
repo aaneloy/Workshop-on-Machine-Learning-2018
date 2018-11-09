@@ -164,7 +164,7 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”.
 
 <p align="center">
-  <img width="360" height="200" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_erhS3Y1ZtN3bcJAYgaLC_g.gif">
+  <img width="360" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_erhS3Y1ZtN3bcJAYgaLC_g.gif">
 </p>
 
 
