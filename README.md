@@ -280,5 +280,5 @@ Other examples are :
 
 
 <p align="center">
-  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_QOS8cNI-A61sKwLJ8Nf8Iw.png">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_QOS8cNI-A61sKwLJ8Nf8Iw.png">
 </p>
