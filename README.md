@@ -145,6 +145,16 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 
 # So lets start Machine Learning
 
+
+## prerequisite
+- **[Install python 3.7](https://github.com/NeloyNSU/Python-pip-Windows-installation)**
+- **[Install Anaconda](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
+- **[Update Packages](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
+
+## Installation Issues
+- **[Anaconda install issues](https://github.com/ContinuumIO/anaconda-issues/issues/1581)**
+- **[Verify Anaconda Installation](https://stackoverflow.com/questions/48342098/how-to-check-python-anaconda-version-installed-on-windows-10-pc?rq=1)**
+
 ## What is Machine Learning?
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”.
 
@@ -167,13 +177,6 @@ Machine learning algorithms find natural patterns in data that generate insight 
 
 ## Tell about our experiences: What are we currently working on..
 
-## prerequisite
-- **[Install python 3.7](https://github.com/NeloyNSU/Python-pip-Windows-installation)**
-- **[Install Anaconda](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
-- **[Update Packages](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
-
-## [Anaconda install issues](https://github.com/ContinuumIO/anaconda-issues/issues/1581)
-## [Verify Anaconda Installation](https://stackoverflow.com/questions/48342098/how-to-check-python-anaconda-version-installed-on-windows-10-pc?rq=1)
 
 ## Types of Learning:
 <p align="center">
