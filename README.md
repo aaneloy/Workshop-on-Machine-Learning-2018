@@ -1,12 +1,17 @@
 ## Workshop-on-Machine-Learning-2018
    This repo contents all the informations regarding workshop on Machine Learning by NSU ACM SC. 
    
+   
+   
    ## What we are going to learn from this Workshop
+   ### Day 1:
    - **Introduction to Machine Learning**
    - **Intuition of the most common ML Algorithms**
+   ### Day 2:
    - **Applications of ML**
    - **Pre-processing Data for ML models**
    - **Use of different ML Algorithms**
+   ### Day 3:
    - **Implementation of Algorithms**
 
    
