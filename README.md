@@ -164,7 +164,7 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_erhS3Y1ZtN3bcJAYgaLC_g.gif">
+  <img width="360" height="200" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_erhS3Y1ZtN3bcJAYgaLC_g.gif">
 </p>
 
 
@@ -185,11 +185,11 @@ Machine learning algorithms find natural patterns in data that generate insight 
 
 ## Types of Learning:
 <p align="center">
-  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_9Eu_-DDMZ_bP_t94_MMEYA.png">
+  <img width="460" height="350 src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_9Eu_-DDMZ_bP_t94_MMEYA.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HOgMR9PXYSfoasB8ctXLSQ.png">
+  <img width="460" height="450 src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HOgMR9PXYSfoasB8ctXLSQ.png">
 </p>
 
 
@@ -198,7 +198,7 @@ Supervised learning is where you have input variables (x) and an output variable
                           ``` Y = f(X)
                           ```
 <p align="center">
-  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/2.png">
+  <img width="460" height="350 src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/2.png">
 </p>
 
 The goal is to approximate the mapping function so well that when you have new input data (x) that you can predict the output variables (Y) for that data. what are Inputs and Labels(Targets)?? for example addition of two numbers a=5,b=6 result =11, Inputs are 5,6 and Target is 11.
