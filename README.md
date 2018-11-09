@@ -199,3 +199,8 @@ Supervised learning problems can be further grouped into regression and classifi
 <p align="center">
   <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
 </p>
+
+## Other examples are :
+- **this mail is spam or important or promotion?**
+- **is this picture a cat or a dog or a tiger?**
+
