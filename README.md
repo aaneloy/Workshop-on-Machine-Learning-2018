@@ -188,10 +188,6 @@ Machine learning algorithms find natural patterns in data that generate insight 
   <img width="460" height="350" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_9Eu_-DDMZ_bP_t94_MMEYA.png">
 </p>
 
-<p align="center">
-  <img width="460" height="350" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HOgMR9PXYSfoasB8ctXLSQ.png">
-</p>
-
 
 ## Supervised Learning: 
 Supervised learning is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output.
@@ -246,6 +242,10 @@ The training data does not include Targets here so we don’t tell the system wh
 ## Supervised Machine Learning Types:
 - **Regression**
 - **Classification**
+
+<p align="center">
+  <img width="560" height="350" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HOgMR9PXYSfoasB8ctXLSQ.png">
+</p>
 
 ### Regression: 
 A regression problem is when the output variable is a `real value` (Continuous) , such as “dollars” or “weight”. 
