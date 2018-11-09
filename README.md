@@ -135,6 +135,7 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 - [Josh Gordon](https://twitter.com/random_forests)
 - [François Chollet](https://twitter.com/fchollet)
+- [Manash Kumar Mandal](https://github.com/manashmndl)
 - [Asif Ahmed Neloy](https://github.com/NeloyNSU)
 
 #### Other Things to follow
