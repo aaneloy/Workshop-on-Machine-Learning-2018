@@ -168,11 +168,17 @@ Machine learning algorithms find natural patterns in data that generate insight 
 ## Tell about our experiences: What are we currently working on..
 
 ## prerequisite
-- **Install python 3.7**
+- **[Install python 3.7](https://github.com/NeloyNSU/Python-pip-Windows-installation)**
 - **[Install Anaconda](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
 - **[Update Packages](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
 
 ## Types of Learning:
 <p align="center">
-  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_9Eu_-DDMZ_bP_t94_MMEYA.png">
 </p>
+
+<p align="center">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HOgMR9PXYSfoasB8ctXLSQ.png">
+</p>
+
+
