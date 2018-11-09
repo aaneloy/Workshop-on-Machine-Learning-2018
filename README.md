@@ -238,8 +238,28 @@ The training data does not include Targets here so we don’t tell the system wh
 
 ```
 
+## Supervised Machine Learning Types:
+- **Regression**
+- **Classification**
 
-## Other examples are :
-- **this mail is spam or important or promotion?**
-- **is this picture a cat or a dog or a tiger?**
+### Regression: 
+A regression problem is when the output variable is a `real value` (Continuous) , such as “dollars” or “weight”. 
+
+Some examples are
+- what is the price of house in a specific city?
+- what is the value of the stock?
+- how many total runs can be on board in a cricket game?
+
+### Classification: 
+A classification problem is when the output variable is a category, (Discrete) such as “red” or “blue” or “disease” and “no disease”.
+
+Some examples are :
+- this mail is spam or not?
+- will it rain today or not?
+- is this picture a cat or not?
+- Basically ‘Yes/No’ type questions called binary classification.
+
+### Other examples are :
+- this mail is spam or important or promotion?
+- is this picture a cat or a dog or a tiger?
 
