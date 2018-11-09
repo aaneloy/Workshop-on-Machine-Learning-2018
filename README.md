@@ -192,3 +192,7 @@ Supervised learning is where you have input variables (x) and an output variable
 
 The goal is to approximate the mapping function so well that when you have new input data (x) that you can predict the output variables (Y) for that data. what are Inputs and Labels(Targets)?? for example addition of two numbers a=5,b=6 result =11, Inputs are 5,6 and Target is 11.
 
+Supervised learning problems can be further grouped into regression and classification problems.
+<p align="center">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
+</p>
