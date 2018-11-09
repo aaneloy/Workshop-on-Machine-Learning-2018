@@ -203,6 +203,12 @@ Supervised learning problems can be further grouped into regression and classifi
   <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
 </p>
 
+
+
+## Unsupervised Learning: 
+Unsupervised Learning is a class of Machine Learning techniques to find the patterns in data. The data given to unsupervised algorithm are not labelled, which means only the input variables(X) are given with no corresponding output variables. In unsupervised learning, the algorithms are left to themselves to discover interesting structures in the data.
+
+
 ## Other examples are :
 - **this mail is spam or important or promotion?**
 - **is this picture a cat or a dog or a tiger?**
