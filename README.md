@@ -173,6 +173,7 @@ Machine learning algorithms find natural patterns in data that generate insight 
 - **[Update Packages](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
 
 ## [Anaconda install issues](https://github.com/ContinuumIO/anaconda-issues/issues/1581)
+## [Verify Anaconda Installation](https://stackoverflow.com/questions/48342098/how-to-check-python-anaconda-version-installed-on-windows-10-pc?rq=1)
 
 ## Types of Learning:
 <p align="center">
