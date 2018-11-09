@@ -141,6 +141,8 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 ## What is Machine Learning?
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
 
+![](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_erhS3Y1ZtN3bcJAYgaLC_g.gif)
+
 
 ## Why Machine Learning?
 Machine Learning can be used in detecting anomalies, recommending new products, enhancing customer services and a lot of things. In fact, with the amount of data that is available along with the exceptional computing power machine learning can prove to be extremely useful for future. 
