@@ -131,10 +131,11 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 - jupyter notebook guide : https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10/blob/master/README.md
 
 
-#### People and publications to follow on twitter
+#### People and publications to follow on twitter or github
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 - [Josh Gordon](https://twitter.com/random_forests)
 - [François Chollet](https://twitter.com/fchollet)
+- [Asif Ahmed Neloy](https://github.com/NeloyNSU)
 
 #### Other Things to follow
 - Get active on Quora. Ask questions, search and try to answer.
