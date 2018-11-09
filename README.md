@@ -155,13 +155,10 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 
 ## Why Machine Learning?
  <dt>center</dt>
- <dd>
-Machine Learning can be used in detecting anomalies, recommending new products, enhancing customer services and a lot of things. In fact, with the amount of data that is available along with the exceptional computing power machine learning can prove to be extremely useful for future. 
+ <dd>Machine Learning can be used in detecting anomalies, recommending new products, enhancing customer services and a lot of things. In fact, with the amount of data that is available along with the exceptional computing power machine learning can prove to be extremely useful for future. 
 
 More than 80% of companies, around the world, are already planning to use machine learning & AI to enhance their customer experience. There is a lot of innovation happening in the field of machine learning. There is no doubt about the importance of machine learning but the biggest challenge is the lack of expertise. There is a huge potential but the lack of resources is slowing things down a bit.
-E.g Youtube , Netflix, Spotify recommendations, FB instagram ads, gmail, Disease Identification/Diagnosis, Weather Forecasting, Video Surveillance, Online Customer Support(chatbots), Online fraud detection, Autonomous driving, Image Recognition, Object detection, Speech recognition in Alexa, Siri etc.
-
-</dd>
+E.g Youtube , Netflix, Spotify recommendations, FB instagram ads, gmail, Disease Identification/Diagnosis, Weather Forecasting, Video Surveillance, Online Customer Support(chatbots), Online fraud detection, Autonomous driving, Image Recognition, Object detection, Speech recognition in Alexa, Siri etc.</dd>
 
 ## How does Machine Learning work?
 
