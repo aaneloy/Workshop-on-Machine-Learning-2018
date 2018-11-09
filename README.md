@@ -212,6 +212,25 @@ Unsupervised Learning is a class of Machine Learning techniques to find the patt
   <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/4.png">
 </p>
 
+There are also different types for unsupervised learning like `Clustering` and `Anomaly detection` (clustering is pretty famous)
+
+<p align="center">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/5.png">
+</p>
+
+### Clustering: 
+This is a type of problem where we group similar things together.
+Bit similar to multi class classification but here we don’t provide the labels, the system understands from data itself and cluster the data.
+
+Some examples are :
+- given news articles,cluster into different types of news
+- given a set of tweets ,cluster based on content of tweet
+- given a set of images, cluster them into different objects
+
+<p align="center">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/6.png">
+</p>
+
 
 
 
