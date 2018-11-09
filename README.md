@@ -17,14 +17,14 @@
                                                      Asif Ahmed Neloy 
 ```
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/12507265_1651272625133624_6327118509352301225_n.jpg">
+  <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/12507265_1651272625133624_6327118509352301225_n.jpg">
 </p>
 
 ```
                                                      Mostafa Didar
 ```
 <p align="center">
-  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/28234796_10213887325570230_8277411262478695512_o.jpg">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/28234796_10213887325570230_8277411262478695512_o.jpg">
 </p>
 
 
