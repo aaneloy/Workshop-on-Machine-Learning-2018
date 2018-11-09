@@ -159,5 +159,11 @@ Machine Learning can be used in detecting anomalies, recommending new products, 
 More than 80% of companies, around the world, are already planning to use machine learning & AI to enhance their customer experience. There is a lot of innovation happening in the field of machine learning. There is no doubt about the importance of machine learning but the biggest challenge is the lack of expertise. There is a huge potential but the lack of resources is slowing things down a bit.
 E.g Youtube , Netflix, Spotify recommendations, FB instagram ads, gmail, Disease Identification/Diagnosis, Weather Forecasting, Video Surveillance, Online Customer Support(chatbots), Online fraud detection, Autonomous driving, Image Recognition, Object detection, Speech recognition in Alexa, Siri etc.
 
+## How does Machine Learning work?
+
+Machine learning algorithms find natural patterns in data that generate insight and help you make better decisions and predictions. We feed in a set of data and the Machine learns from that data and predicts an output and it can improve that output overtime.
+
+## Tell about our experiences: What are we currently working on..
+
 
 
