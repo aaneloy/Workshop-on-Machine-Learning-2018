@@ -16,12 +16,17 @@
 ```
                                                      Asif Ahmed Neloy 
 ```
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/12507265_1651272625133624_6327118509352301225_n.jpg">
+</p>
 
-![Asif Ahmed Neloy](Images/12507265_1651272625133624_6327118509352301225_n.jpg)
 ```
                                                      Mostafa Didar
 ```
-![Mostafa Didar](Images/28234796_10213887325570230_8277411262478695512_o.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/28234796_10213887325570230_8277411262478695512_o.jpg">
+</p>
+
 
 ## Beginner Machine Learning Resources (Copied From - https://github.com/NSU-ACM-SC/Beginner-Machine-Learning-Resources)
 
