@@ -268,3 +268,17 @@ Other examples are :
 - this mail is spam or important or promotion?
 - is this picture a cat or a dog or a tiger?
 
+
+## Algorithoms we are going to learn
+
+- **Linear Regression**
+- **Logistic Regression**
+- **Decision Trees**
+- **Support Vector Machine (SVM)**
+- **Neural Networks**
+- **Ensemble Learning**
+
+
+<p align="center">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_QOS8cNI-A61sKwLJ8Nf8Iw.png">
+</p>
