@@ -174,5 +174,5 @@ Machine learning algorithms find natural patterns in data that generate insight 
 
 ## Types of Learning:
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
+  <img src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_HKJTVHXyTBsR-3ljuBL6qQ.png">
 </p>
