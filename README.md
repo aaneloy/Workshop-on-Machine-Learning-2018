@@ -167,6 +167,6 @@ Machine learning algorithms find natural patterns in data that generate insight 
 
 ## prerequisite
 - **Install python 3.7**
-- **Install Anaconda**
+- **[Install Anaconda](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
 - **[Update Packages](https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10)**
 
