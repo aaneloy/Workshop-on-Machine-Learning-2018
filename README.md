@@ -166,7 +166,7 @@ Machine learning algorithms find natural patterns in data that generate insight 
 ## Tell about our experiences: What are we currently working on..
 
 ## prerequisite
-- **Install python 3.7
-- **Install Anaconda
-- **Update Packages
+- **Install python 3.7**
+- **Install Anaconda**
+- **Update Packages**
 
