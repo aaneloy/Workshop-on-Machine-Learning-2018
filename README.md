@@ -11,8 +11,9 @@
    - **Applications of ML**
    - **Pre-processing Data for ML models**
    - **Use of different ML Algorithms**
-   ### Day 3:
    - **Implementation of Algorithms**
+   ### Day 3:
+   - **[Kaggle](https://www.kaggle.com/) Competition**
 
    
 
