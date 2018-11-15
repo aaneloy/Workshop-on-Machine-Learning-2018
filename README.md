@@ -320,5 +320,5 @@ The objective of a linear regression model is to find a relationship between one
 The line for which the the error between the predicted values and the observed values is minimum is called the best fit line or the regression line. These errors are also called as residuals. The `residuals` can be visualized by the vertical lines from the observed data value to the `regression` line.
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR2.jpg">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR2.png">
 </p>
