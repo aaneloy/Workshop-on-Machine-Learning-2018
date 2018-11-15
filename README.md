@@ -325,3 +325,55 @@ The line for which the the error between the predicted values and the observed v
 <p align="center">
   <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/eq2.png">
 </p>
+
+
+
+## Classification Algorithms
+
+## What is a Classification Problem?
+We identify problem as classification problem when independent variables are continuous in nature and dependent variable is in categorical form i.e. in classes like positive class and negative class. The real life example of classification example would be, to categorize the mail as spam or not spam, to categorize the tumor as malignant or benign and to categorize the transaction as fraudulent or genuine. All these problem’s answers are in categorical form i.e. Yes or No. and that is why they are two class classification problems.
+
+Although, sometime we come across more than 2 classes and still it is a classification problem. These types of problems are known as multi class classification problems.
+
+
+
+## Logistic Regression: 
+
+Logistic Regression is one of the basic and popular algorithm to solve a classification problem. It is named as ‘Logistic Regression’, because it’s underlying technique is quite the same as Linear Regression. The term “Logistic” is taken from the Logit function that is used in this method of classification.
+
+
+
+## Why not use Linear Regression?
+Suppose we have a data of tumor size vs its malignancy. As it is a classification problem, if we plot, we can see, all the values will lie on 0 and 1. And if we fit best found regression line, by assuming the threshold at 0.5, we can do line pretty reasonable job.
+
+We can decide the point on the x axis from where all the values lie to its left side are considered as negative class and all the values lie to its right side are positive class.
+
+But what if there is an outlier in the data. Things would get pretty messy. For example, for 0.5 threshold,
+
+
+
+
+
+If we fit best found regression line, it still won’t be enough to decide any point by which we can differentiate classes. It will put some positive class examples into negative class. The green dotted line (Decision Boundary) is dividing malignant tumors from benign tumors but the line should have been at a yellow line which is clearly dividing the positive and negative examples. So just a single outlier is disturbing the whole linear regression predictions. And that is where logistic regression comes into a picture.
+Logistic Regression Algorithm
+As discussed earlier, to deal with outliers, Logistic Regression uses Sigmoid function.
+An explanation of logistic regression can begin with an explanation of the standard logistic function. The logistic function is a Sigmoid function, which takes any real value between zero and one. It is defined as
+
+And if we plot it, the graph will be S curve,
+
+Let’s consider t as linear function in a univariate regression model.
+
+So the Logistic Equation will become
+
+Now, when logistic regression model come across an outlier, it will take care of it.
+
+But sometime it will shift its y axis to left or right depending on outliers positions.
+What is Decision Boundary?
+Decision boundary helps to differentiate probabilities into positive class and negative class.
+Linear Decision Boundary
+
+
+Non Linear Decision Boundary
+
+
+
