@@ -288,8 +288,7 @@ Other examples are :
 ``` 
                                                         Summary of Day 1
 ```
-## Day 2: 
-## Regression Algorithm examples:
+## Day 2:
 
 ## Linear Regression using Python:
 
@@ -300,9 +299,22 @@ It is a very powerful technique and can be used to understand the factors that i
 
 
 
-## What is Linear Regression?
+## What is Linear Regression
 The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called Uni-variate Linear Regression and if there are multiple features, it is called Multivariate Linear Regression.
 
 <p align="center">
-  <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR.jpg">
+  <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR.png">
 </p>
+
+## What is Linear Regression
+The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called `Uni-variate Linear Regression` and if there are multiple features, it is called `Multivariate Linear Regression`.
+
+## Hypothesis of Linear Regression
+
+<p align="center">
+  <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/eq.png">
+</p>
+
+## How do we determine the best fit line? 
+
+The line for which the the error between the predicted values and the observed values is minimum is called the best fit line or the regression line. These errors are also called as residuals. The `residuals` can be visualized by the vertical lines from the observed data value to the `regression` line.
