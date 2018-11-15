@@ -285,7 +285,8 @@ Other examples are :
 </p>
 
 
-``` Summary of what we learned so far:
+``` 
+  Summary of Day 1:
 ```
 ## Day 2:
 
