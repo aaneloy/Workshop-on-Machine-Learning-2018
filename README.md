@@ -300,14 +300,13 @@ It is a very powerful technique and can be used to understand the factors that i
 
 
 ## What is Linear Regression
-The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called Uni-variate Linear Regression and if there are multiple features, it is called Multivariate Linear Regression.
+The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called `Uni-variate Linear Regression` and if there are multiple features, it is called `Multivariate Linear Regression`.
 
 <p align="center">
   <img width="460" height="450" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR.png">
 </p>
 
-## What is Linear Regression
-The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called `Uni-variate Linear Regression` and if there are multiple features, it is called `Multivariate Linear Regression`.
+
 
 ## Hypothesis of Linear Regression
 
