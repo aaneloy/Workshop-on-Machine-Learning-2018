@@ -326,10 +326,16 @@ The line for which the the error between the predicted values and the observed v
   <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/eq2.png">
 </p>
 
+                                                           Classification
+
+## Classification Algorithms:
 
 
-## Classification Algorithms
 
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/Regression_vs_Classification.png
+</p>
+                                     
 ## What is a Classification Problem?
 We identify problem as classification problem when independent variables are continuous in nature and dependent variable is in categorical form i.e. in classes like positive class and negative class. The real life example of classification example would be, to categorize the mail as spam or not spam, to categorize the tumor as malignant or benign and to categorize the transaction as fraudulent or genuine. All these problem’s answers are in categorical form i.e. Yes or No. and that is why they are two class classification problems.
 
