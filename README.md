@@ -365,6 +365,10 @@ Suppose we have a data of tumor size vs its malignancy. As it is a classificatio
 
 We can decide the point on the x axis from where all the values lie to its left side are considered as negative class and all the values lie to its right side are positive class.
 
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/33.jpeg">
+</p>
+
 But what if there is an outlier in the data. Things would get pretty messy. For example, for 0.5 threshold,
 
 
