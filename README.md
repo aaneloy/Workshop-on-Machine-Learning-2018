@@ -385,7 +385,7 @@ As discussed earlier, to deal with outliers, Logistic Regression uses Sigmoid fu
 An explanation of logistic regression can begin with an explanation of the standard logistic function. The logistic function is a Sigmoid function, which takes any real value between zero and one. It is defined as
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/55.png">
+  <img width="260" height="200" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/55.png">
 </p>
 
 
