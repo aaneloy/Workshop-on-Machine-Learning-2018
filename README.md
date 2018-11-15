@@ -372,21 +372,45 @@ We can decide the point on the x axis from where all the values lie to its left 
 But what if there is an outlier in the data. Things would get pretty messy. For example, for 0.5 threshold,
 
 
-
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/44.png">
+</p>
 
 
 If we fit best found regression line, it still won’t be enough to decide any point by which we can differentiate classes. It will put some positive class examples into negative class. The green dotted line (Decision Boundary) is dividing malignant tumors from benign tumors but the line should have been at a yellow line which is clearly dividing the positive and negative examples. So just a single outlier is disturbing the whole linear regression predictions. And that is where logistic regression comes into a picture.
-Logistic Regression Algorithm
+
+
+## Logistic Regression Algorithm
 As discussed earlier, to deal with outliers, Logistic Regression uses Sigmoid function.
 An explanation of logistic regression can begin with an explanation of the standard logistic function. The logistic function is a Sigmoid function, which takes any real value between zero and one. It is defined as
 
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/55.png">
+</p>
+
+
+
 And if we plot it, the graph will be S curve,
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/66.png">
+</p>
 
 Let’s consider t as linear function in a univariate regression model.
 
-So the Logistic Equation will become
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/77.png">
+</p>
+
+So the Logistic Equation will become:
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/88.png">
+</p>
 
 Now, when logistic regression model come across an outlier, it will take care of it.
+
+
 
 But sometime it will shift its y axis to left or right depending on outliers positions.
 What is Decision Boundary?
