@@ -339,6 +339,12 @@ The line for which the the error between the predicted values and the observed v
 ## What is a Classification Problem?
 We identify problem as classification problem when independent variables are continuous in nature and dependent variable is in categorical form i.e. in classes like positive class and negative class. The real life example of classification example would be, to categorize the mail as spam or not spam, to categorize the tumor as malignant or benign and to categorize the transaction as fraudulent or genuine. All these problem’s answers are in categorical form i.e. Yes or No. and that is why they are two class classification problems.
 
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/1_-a_J9I0cr0BoJRc_6MhJog.png">
+</p>
+
+
 Although, sometime we come across more than 2 classes and still it is a classification problem. These types of problems are known as multi class classification problems.
 
 
@@ -351,6 +357,11 @@ Logistic Regression is one of the basic and popular algorithm to solve a classif
 
 ## Why not use Linear Regression?
 Suppose we have a data of tumor size vs its malignancy. As it is a classification problem, if we plot, we can see, all the values will lie on 0 and 1. And if we fit best found regression line, by assuming the threshold at 0.5, we can do line pretty reasonable job.
+
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/22.png">
+</p>
 
 We can decide the point on the x axis from where all the values lie to its left side are considered as negative class and all the values lie to its right side are positive class.
 
