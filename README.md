@@ -322,3 +322,7 @@ The line for which the the error between the predicted values and the observed v
 <p align="center">
   <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/LR2.png">
 </p>
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/eq2.png">
+</p>
