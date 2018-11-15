@@ -288,7 +288,8 @@ Other examples are :
 ``` 
                                                         Summary of Day 1
 ```
-## Day 2:
+## Day 2: 
+## Regression Algorithm examples:
 
 ## Linear Regression using Python:
 
@@ -299,7 +300,7 @@ It is a very powerful technique and can be used to understand the factors that i
 
 
 
-## What is Linear Regression
+## What is Linear Regression?
 The objective of a linear regression model is to find a relationship between one or more features(independent variables) and a continuous target variable(dependent variable). When there is only feature it is called Uni-variate Linear Regression and if there are multiple features, it is called Multivariate Linear Regression.
 
 <p align="center">
