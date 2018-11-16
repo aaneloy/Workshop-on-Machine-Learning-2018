@@ -429,9 +429,9 @@ Decision boundary helps to differentiate probabilities into positive class and n
 </p>
 
 ## Classification and Regression Trees
-Decision Trees are an important type of algorithm for predictive modeling machinelearning.
+Decision Trees are an important type of algorithm for predictive modeling machine learning.
 
-The representation of the decision tree model is a binary tree. This is your binary tree from algorithms and data structures, nothing too fancy. Each node represents a single input variable (x) and a split point on that variable (assuming the variable is numeric).
+The representation of the decision tree model is a `binary tree`. This is your binary tree from algorithms and data structures, nothing too fancy. Each node represents a single input variable (x) and a split point on that variable (assuming the variable is numeric).
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/tree.png">
@@ -446,17 +446,29 @@ Trees are fast to learn and very fast for making predictions. They are also ofte
 
 Naive Bayes is a simple but surprisingly powerful algorithm for predictive modeling.
 
-The model is comprised of two types of probabilities that can be calculated directly from your training data: 1) The probability of each class; and 2) The conditional probability for each class given each x value. Once calculated, the probability model can be used to make predictions for new data using Bayes Theorem. When your data is real-valued it is common to assume a Gaussian distribution (bell curve) so that you can easily estimate these probabilities.
+The model is comprised of two types of probabilities that can be calculated directly from your training data: 
+```
+1) The probability of each class; and 
+2) The conditional probability for each class given each x value. 
+
+```
+Once calculated, the probability model can be used to make predictions for new data using Bayes Theorem. When your data is real-valued it is common to assume a Gaussian distribution (bell curve) so that you can easily estimate these probabilities.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/bayes.png">
 </p>
 
 
-Naive Bayes is called naive because it assumes that each input variable is independent. This is a strong assumption and unrealistic for real data, nevertheless, the technique is very effective on a large range of complex problems.
+Naive Bayes is called naive because it assumes that each input variable is `independent`. This is a strong assumption and unrealistic for real data, nevertheless, the technique is very effective on a large range of complex problems.
 
 ## K-Nearest Neighbors
-The KNN algorithm is very simple and very effective. The model representation for KNN is the entire training dataset. Simple right?
+
+The KNN algorithm is very simple and very effective. The model representation for KNN is the entire training dataset. 
+
+```
+Simple right?
+
+```
 
 Predictions are made for a new data point by searching through the entire training set for the K most similar instances (the neighbors) and summarizing the output variable for those K instances. For regression problems, this might be the mean output variable, for classification problems this might be the mode (or most common) class value.
 
@@ -494,7 +506,7 @@ A hyperplane is a line that splits the input variable space. In SVM, a hyperplan
 
 The distance between the hyperplane and the closest data points is referred to as the margin. The best or optimal hyperplane that can separate the two classes is the line that has the largest margin. Only these points are relevant in defining the hyperplane and in the construction of the classifier. These points are called the support vectors. They support or define the hyperplane. In practice, an optimization algorithm is used to find the values for the coefficients that maximizes the margin.
 
-SVM might be one of the most powerful out-of-the-box classifiers and worth trying on your dataset.
+SVM might be one of the most powerful `out-of-the-box` classifiers and worth trying on your dataset.
 
 ## Bagging and Random Forest
 
