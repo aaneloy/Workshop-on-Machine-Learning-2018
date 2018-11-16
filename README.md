@@ -326,7 +326,8 @@ The line for which the the error between the predicted values and the observed v
   <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/eq2.png">
 </p>
 
-                                                           Classification
+
+<Center> ## **Classification** </center>
 
 ## Classification Algorithms:
 
@@ -393,7 +394,7 @@ An explanation of logistic regression can begin with an explanation of the stand
 And if we plot it, the graph will be S curve,
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/66.png">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/66.png">
 </p>
 
 Let’s consider t as linear function in a univariate regression model.
@@ -420,5 +421,5 @@ Linear Decision Boundary
 
 Non Linear Decision Boundary
 
-
+## What is Decision Boundary?
 
