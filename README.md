@@ -428,5 +428,22 @@ Decision boundary helps to differentiate probabilities into positive class and n
   <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/14.png">
 </p>
 
+## What is Decision Boundary?
 
+Decision boundary helps to differentiate probabilities into positive class and negative class.
+```
+                                   Linear Decision Boundary
+```
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/db.png">
+</p>
+
+```
+                                 Non Linear Decision Boundary
+````
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/db2.png">
+</p>
 
