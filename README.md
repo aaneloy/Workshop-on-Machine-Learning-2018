@@ -533,6 +533,8 @@ Because so much attention is put on correcting mistakes by the algorithm it is i
 
 ## Some Important Methodologies:
 - **DataSets**
+- **DataPreprocessing**
+- **Data Visualization**
 - **Prediction**
 - **Model Validation**
 
@@ -544,6 +546,21 @@ There are three types of data sets – Training, Dev and Test that are used at v
 ## What is Test Dataset in ML?
 
 This is the data typically used to provide an unbiased evaluation of the final that are completed and fit on the training dataset. Actually, such data is used for testing the model whether it is responding or working appropriately or not.
+
+## Data Preprocessing
+Before Training the dataset, regularization needs to apply to remove noisy data and transform categorical values to binary values.
+
+- **Check Null values**
+- **Removing NULL Values and Empty Rows**
+- **Dummy all the categorical variables used for modeling** 
+
+## Data Visualization
+Visualize the data with features to get a clear idea.
+
+- **Finding Correlation**
+- **Feature Engineering**
+- **Dataset Splitting**
+
 
 ## Prediction
 ### What does Prediction mean in Machine Learning?
