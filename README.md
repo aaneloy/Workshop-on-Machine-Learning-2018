@@ -411,15 +411,22 @@ So the Logistic Equation will become:
 
 Now, when logistic regression model come across an outlier, it will take care of it.
 
-
-
 But sometime it will shift its y axis to left or right depending on outliers positions.
-What is Decision Boundary?
-Decision boundary helps to differentiate probabilities into positive class and negative class.
-Linear Decision Boundary
-
-
-Non Linear Decision Boundary
 
 ## What is Decision Boundary?
+
+Decision boundary helps to differentiate probabilities into positive class and negative class.
+
+## Linear Decision Boundary
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/10.png">
+</p>
+
+## Non Linear Decision Boundary
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/14.png">
+</p>
+
+
 
