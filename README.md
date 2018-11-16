@@ -529,3 +529,68 @@ AdaBoost was the first really successful boosting algorithm developed for binary
 AdaBoost is used with short decision trees. After the first tree is created, the performance of the tree on each training instance is used to weight how much attention the next tree that is created should pay attention to each training instance. Training data that is hard to predict is given more weight, whereas easy to predict instances are given less weight. Models are created sequentially one after the other, each updating the weights on the training instances that affect the learning performed by the next tree in the sequence. After all the trees are built, predictions are made for new data, and the performance of each tree is weighted by how accurate it was on training data.
 
 Because so much attention is put on correcting mistakes by the algorithm it is important that you have clean data with outliers removed.
+
+
+## Some Important Methodologies:
+- **DataSets**
+- **Prediction**
+- **Model Validation**
+
+
+## DataSets:
+
+There are three types of data sets – Training, Dev and Test that are used at various stage of development. Training dataset is the largest of three of them, while test data functions as seal of approval and you don’t need to use till the end of the development.
+
+## What is Test Dataset in ML?
+
+This is the data typically used to provide an unbiased evaluation of the final that are completed and fit on the training dataset. Actually, such data is used for testing the model whether it is responding or working appropriately or not.
+
+## Prediction
+### What does Prediction mean in Machine Learning?
+“Prediction” refers to the output of an algorithm after it has been trained on a historical dataset and applied to new data when you’re trying to forecast the likelihood of a particular outcome, such as whether or not a customer will churn in 30 days. The algorithm will generate probable values for an unknown variable for each record in the new data, allowing the model builder to identify what that value will most likely be.
+
+The word “prediction” can be misleading. In some cases, it really does mean that you are predicting a future outcome, such as when you’re using machine learning to determine the next best action in a marketing campaign. Other times, though, the “prediction” has to do with, for example, whether or not a transaction that already occurred was fraud. In that case, the transaction already happened, but you’re making an educated guess about whether or not it was legitimate, allowing you to take the appropriate action.
+
+### Why are Predictions important?
+
+Machine learning model predictions allow businesses to make highly accurate guesses as to the likely outcomes of a question based on historical data, which can be about all kinds of things – customer churn likelihood, possible fraudulent activity, and more. These provide the business with insights that result in tangible business value. For example, if a model predicts a customer is likely to churn, the business can target them with specific communications and outreach that will prevent the loss of that customer.
+
+
+## Model Validation
+
+### Metrics
+
+Choice of metrics influences how the performance of machine learning algorithms is measured and compared. They influence how you weight the importance of different characteristics in the results and your ultimate choice of which algorithm to choose. In this project, as both Regression and Classification problem was handled so both types of matrices were used. 
+
+### Regression Problem Metrices:
+- **Mean Absolute Error.**
+- **Mean Squared Error.**
+- **R^2**
+
+### Mean Absolute Error
+The Mean Absolute Error (or MAE) is the sum of the absolute differences between predictions and actual values. It gives an idea of how wrong the predictions were.
+The measure gives an idea of the magnitude of the error, but no idea of the direction (e.g. over or under predicting).
+
+### Mean Squared Error
+The Mean Squared Error (or MSE) is much like the mean absolute error in that it provides a gross idea of the magnitude of the error.
+Taking the square root of the mean squared error converts the units back to the original units of the output variable and can be meaningful for description and presentation. This is called the Root Mean Squared Error (or RMSE).
+
+### R^2 Metric
+The R^2 (or R Squared) metric provides an indication of the goodness of fit of a set of predictions to the actual values. In statistical literature, this measure is called the coefficient of determination.
+
+## Classification Problem Metrices:
+- **Classification Accuracy.**
+- **Area Under ROC Curve.**
+
+### Classification Accuracy
+Classification accuracy is the number of correct predictions made as a ratio of all predictions made.
+This is the most common evaluation metric for classification problems, it is also the most misused. It is really only suitable when there is an equal number of observations in each class (which is rarely the case) and that all predictions and prediction errors are equally important, which is often not the case.
+
+
+### Area Under ROC Curve
+The area under ROC Curve (or AUC for short) is a performance metric for binary classification problems.
+The AUC represents a model’s ability to discriminate between positive and negative classes. An area of 1.0 represents a model that made all predictions perfectly. An area of 0.5 represents a model as good as random. 
+ROC can be broken down into sensitivity and specificity. A binary classification problem is really a trade-off between sensitivity and specificity.
+
+- Sensitivity is the true positive rate also called the recall. It is the number of instances from the positive (first) class that actually predicted correctly.
+- Specificity is also called the true negative rate. Is the number of instances from the negative class (second) class that was actually predicted correctly.
