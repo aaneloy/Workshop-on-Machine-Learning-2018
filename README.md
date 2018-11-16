@@ -327,7 +327,7 @@ The line for which the the error between the predicted values and the observed v
 </p>
 
 
-<Center> ## **Classification** </center>
+ ## **Classification** 
 
 ## Classification Algorithms:
 
