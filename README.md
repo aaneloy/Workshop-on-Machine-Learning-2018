@@ -174,6 +174,6 @@ or just click on the links below to get there.
 
 - **[Day - 1 : Introduction to machine learning, why you should learn machine learning and overview of various algorithms used in machine learning.](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-1.md)**
 
-- **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-1.md)**
+- **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-2.md)**
 
 
