@@ -143,3 +143,21 @@ cmap = sns.diverging_palette(220, 10, as_cmap=True)
 sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
             square=True, linewidths=.5, cbar_kws={"shrink": .5})
 sns.pairplot(data)
+
+
+
+##
+tmp = data.drop('sepal_length', axis=1)
+g = sns.pairplot(tmp, hue='species', markers='+')
+plt.show()
+
+
+##Violin Plot
+g = sns.violinplot(y='species', x='sepal_length', data=data, inner='quartile')
+plt.show()
+g = sns.violinplot(y='species', x='sepal_width', data=data, inner='quartile')
+plt.show()
+g = sns.violinplot(y='species', x='petal_length', data=data, inner='quartile')
+plt.show()
+g = sns.violinplot(y='species', x='petal_width', data=data, inner='quartile')
+plt.show()
