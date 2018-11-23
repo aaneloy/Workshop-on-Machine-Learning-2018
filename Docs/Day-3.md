@@ -13,12 +13,12 @@ One of the most common datasets that I came across in my journey into the data s
 
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/w3_3.jpeg">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/W3_3.jpeg">
 </p>
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/w3_2.gif">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/W3_2.gif">
 </p>
