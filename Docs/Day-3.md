@@ -24,4 +24,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 </p>
 
 
-# Check out the Iris Data Set here: (https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/tree/master/Iris%20Dataset)
+# Check out the Iris Data Set here: 
+> [Iris Dataset](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/tree/master/Iris%20Dataset)
+
+
