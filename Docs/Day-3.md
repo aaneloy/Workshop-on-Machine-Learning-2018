@@ -40,29 +40,9 @@ That is, to use a limited sample in order to estimate how the model is expected 
 
 It is a popular method because it is simple to understand and because it generally results in a less biased or less optimistic estimate of the model skill than other methods, such as a simple train/test split.
 
-The general procedure is as follows:
-
-1)Shuffle the dataset randomly.
-2)Split the dataset into k groups
-3)For each unique group:
-  a)Take the group as a hold out or test data set
-  b)Take the remaining groups as a training data set
-  c)Fit a model on the training set and evaluate it on the test set
-  d)Retain the evaluation score and discard the model
-4)Summarize the skill of the model using the sample of model evaluation scores
+> Read more about k-Fold Cross Validation [here](https://machinelearningmastery.com/k-fold-cross-validation/)
 
 
-# Configuration of k
-The k value must be chosen carefully for your data sample.
-
-A poorly chosen value for k may result in a mis-representative idea of the skill of the model, such as a score with a high variance (that may change a lot based on the data used to fit the model), or a high bias, (such as an overestimate of the skill of the model).
-
-Three common tactics for choosing a value for k are as follows:
-
-Representative: The value for k is chosen such that each train/test group of data samples is large enough to be statistically representative of the broader dataset.
-k=10: The value for k is fixed to 10, a value that has been found through experimentation to generally result in a model skill estimate with low bias a modest variance.
-k=n: The value for k is fixed to n, where n is the size of the dataset to give each test sample an opportunity to be used in the hold out dataset. This approach is called leave-one-out cross-validation.
-The choice of k is usually 5 or 10, but there is no formal rule. As k gets larger, the difference in size between the training set and the resampling subsets gets smaller. As this difference decreases, the bias of the technique becomes smaller.
 
 ## Feature Engineering
 
