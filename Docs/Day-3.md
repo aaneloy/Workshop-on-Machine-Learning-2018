@@ -43,6 +43,8 @@ It is a popular method because it is simple to understand and because it general
 > Read more about k-Fold Cross Validation [here](https://machinelearningmastery.com/k-fold-cross-validation/)
 
 
+## Stratify 
+Makes sure that each fold has the same proportion of observations.
 
 ## Feature Engineering
 
@@ -51,6 +53,13 @@ Datasets used to train classification and regression algorithms are high dimensi
 # Recursive Feature Elimination: 
 
 Recursive Feature Elimination (RFE) as its title suggests recursively removes features, builds a model using the remaining attributes and calculates model accuracy. RFE is able to work out the combination of attributes that contribute to the prediction on the target variable (or class). Scikit Learn does most of the heavy lifting just import RFE from sklearn.feature_selection and pass any classifier model to the RFE() method with the number of features to select. Using familiar Scikit Learn syntax, the .fit() method must then be called.
+
+
+# Q/A Time
+
+<p align="center">
+  <img width="460" height="400" src="https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Images/W3_4.png">
+</p>
 
 
 
