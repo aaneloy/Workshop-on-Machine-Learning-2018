@@ -62,5 +62,10 @@ Recursive Feature Elimination (RFE) as its title suggests recursively removes fe
 </p>
 
 
+# Thank You
+Thanks for being so awesome and completing this 3 part Machine Learning Workshop. 
+I hope all of you have a slight idea about how ML works and how to apply ML in real life data now. 
+You can now take off from here, Remember the sky is the limit. We wish you all the best and Good Luck. 
+
 
 
