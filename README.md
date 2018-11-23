@@ -13,7 +13,7 @@
    - **Use of different ML Algorithms**
    - **Implementation of Algorithms**
    ### Day 3:
-   - **More Applications, Data Visualizations, Summary and Q/A**
+   - **More Applications, Data Visualizations, Feature Engineering, Summary and Q/A**
 
    
 
