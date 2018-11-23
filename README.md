@@ -13,7 +13,7 @@
    - **Use of different ML Algorithms**
    - **Implementation of Algorithms**
    ### Day 3:
-   - **[Kaggle](https://www.kaggle.com/) Competition**
+   - **More Applications, Data Visualizations, Summary and Q/A**
 
    
 
@@ -176,4 +176,4 @@ or just click on the links below to get there.
 
 - **[Day - 2 : Regression and Classification, Decision Trees, Naive Bayes, K-Nearest Neighbors, Vector Quantization, Support Vector Machines, Bagging and Random Forest, Data Processing, Model validation and Metrics](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-2.md)**
 
-- **[Day - 3 : Summary of the workshop, Problem Solving and Q/A Sessions.](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-3.md)**
+- **[Day - 3 : More Applications and Experimentations, Summary of the workshop and Q/A Sessions.](https://github.com/NeloyNSU/Workshop-on-Machine-Learning-2018/blob/master/Docs/Day-3.md)**
